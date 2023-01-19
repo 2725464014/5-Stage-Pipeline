@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/firefoxdownload/download/CMPEN-331-Lab-3-main/project_4/project_4.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/firefoxdownload/download/CMPEN-331-Lab-3-main/project_4/project_4.srcs/sim_1/new/testbench.v,1671234362,verilog,,,,testbench,,,,,,,,
+D:/firefoxdownload/download/CMPEN-331-Lab-3-main/project_4/project_4.srcs/sources_1/new/Lab3.v,1671234449,verilog,,D:/firefoxdownload/download/CMPEN-331-Lab-3-main/project_4/project_4.srcs/sim_1/new/testbench.v,,ALU;ALUMultiplexer;ControlUnit;DataMemory;Datapath;EXEMEMPipelineRegister;FwdAMux;FwdBMux;IDEXEPipelineRegister;IFIDPipelineRegister;ImmediateExtender;InstructionMemory;MEMWBPipelineRegister;PCAdder;ProgramCounter;RegRTMux;RegisterFile;WBMultiplexer,,,,,,,,
